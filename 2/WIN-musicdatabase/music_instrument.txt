@@ -1,0 +1,917 @@
+2	1	woodwind	1
+3	179	double reed	1
+4	3	bagpipe	1
+6	5	contrabassoon	1
+8	408	oboe	1
+9	180	clarinet	1
+10	9	alto clarinet	1
+11	9	bass clarinet	1
+12	9	contrabass clarinet	1
+13	2	flute	1
+14	13	end-blown flute	1
+15	650	ocarina	1
+16	14	pan flute	1
+18	194	recorder	1
+19	180	saxophone	1
+20	19	soprano saxophone	1
+21	19	alto saxophone	1
+22	19	tenor saxophone	1
+23	19	baritone saxophone	1
+24	1	brass	1
+25	201	cornet	1
+26	201	horn	1
+27	35	alphorn	1
+28	26	baritone horn	1
+29	201	flugelhorn	1
+30	201	French horn	1
+31	26	tenor horn / alto horn	1
+32	202	trombone	1
+33	201	trumpet	1
+34	201	tuba	1
+35	24	natural brass instruments	1
+36	522	bugle	1
+37	201	mellophone	1
+39	35	shofar	1
+40	179	free reed	1
+41	40	accordion	1
+42	40	concertina	1
+43	610	harmonica	1
+44	40	melodica	1
+48	205	double bass	2
+52	232	guitar family	7
+56	177	slide guitar	2
+57	177	steel guitar	2
+59	205	violin family	7
+65	46	aeolian harp	2
+71	232	bouzouki	2
+73	232	musical bow	2
+74	205	crwth	2
+77	252	hammered dulcimer	2
+78	61	hardingfele	2
+79	46	hurdy gurdy	2
+80	930	jew's harp	3
+84	232	lyre	2
+85	632	mbira	3
+86	98	psaltery	2
+89	52	ukulele	2
+90	52	tres	2
+93	205	viola da gamba	2
+94	205	viola d'amore	2
+96	232	washtub bass	2
+97	83	xalam	2
+98	232	zither	2
+100	99	membranophone	3
+101	100	drums (drum set)	3
+102	100	congas	3
+103	100	bongos	3
+104	658	snare drum	3
+105	100	timbales	3
+106	675	triangle	3
+107	904	whip / slapstick	3
+108	675	afuche / cabasa	3
+110	369	claves	3
+111	344	doyra	3
+112	675	güiro	3
+114	675	mendoza	3
+115	99	tuned percussion	3
+116	675	bells	3
+120	117	drum machine	4
+121	117	ondes Martenot	4
+122	117	sampler	4
+123	124	synclavier	4
+124	117	synthesizer	4
+125	447	telharmonium	4
+126	117	theremin	4
+127	133	calliope	1
+128	116	carillon	3
+129	165	celesta	3
+130	252	clavichord	2
+131	232	harpsichord	2
+132	259	mellotron	4
+133	1	organ	1
+136	133	pipe organ	1
+137	252	piano	2
+138	137	grand piano	2
+139	259	Rhodes piano	2
+140	137	upright piano	2
+143	591	kazoo	5
+145	701	musical saw	5
+146	701	singing bowl	3
+148	154	serpent	1
+151	34	sousaphone	1
+154	24	keyed brass instruments	1
+155	35	didgeridoo	1
+156	35	conch	1
+157	53	Spanish acoustic guitar	2
+159	99	washboard	3
+160	109	spoons	3
+161	675	ratchet	3
+162	334	vibraslap	3
+163	675	wood block	3
+164	271	crotales	3
+165	349	glockenspiel	3
+166	170	marimba	3
+167	367	timpani	3
+168	338	tubular bells	3
+169	349	vibraphone	3
+173	14	shakuhachi	1
+174	205	alto violin	2
+176	32	bass trombone	1
+177	52	guitar	2
+179	2	reeds	1
+180	179	single reed	1
+183	252	Chapman stick	2
+185	367	tabla	3
+186	100	madal	3
+187	428	uilleann pipes	1
+188	344	bodhrán	3
+190	417	bansuri	1
+191	8	heckelphone	1
+193	838	bandoneón	1
+194	13	fipple flute	1
+196	194	willow flute	1
+197	194	tin whistle	1
+198	194	slide whistle	1
+200	13	nose flute	1
+201	24	valved brass instruments	1
+202	24	slide brass instruments	1
+203	154	cornett	1
+205	46	bowed string instruments	2
+206	205	rebec	2
+207	52	bass guitar	2
+209	205	treble violin	2
+210	205	soprano violin	2
+211	61	kemenche	2
+213	205	huqin	7
+214	213	jinghu	2
+215	213	erhu	2
+216	213	gaohu	2
+217	213	zhonghu	2
+218	213	cizhonghu	2
+219	213	gehu	2
+220	213	diyingehu	2
+221	213	banhu	2
+222	213	yehu	2
+223	87	kokyu	2
+227	205	viola organista	2
+228	205	nyckelharpa	2
+229	205	bowed psaltery	2
+230	205	gudok	2
+232	46	plucked string instruments	2
+240	83	yueqin	2
+241	545	zhongruan	2
+242	83	đàn nguyệt	2
+244	83	sanxian	2
+252	46	struck string instruments	2
+253	252	Warr guitar	2
+254	77	yangqin	2
+256	77	cimbalom	2
+258	137	toy piano	2
+259	137	electric piano	5
+260	259	chamberlin	4
+261	52	tiple	2
+262	232	vihuela	2
+263	344	tambourine	3
+264	3	kortholt	1
+265	268	djembe	3
+267	366	wooden fish	3
+268	100	goblet drum	3
+270	675	gong	3
+272	271	não bạt / chập chõa	3
+273	675	steelpan	3
+274	13	whistle	1
+275	116	handbells	3
+277	813	Moog	4
+278	813	Minimoog	4
+279	675	Tibetan water drum	3
+280	701	waterphone	3
+281	117	omnichord	4
+283	13	k'lông pút	1
+285	701	glass harmonica	3
+289	18	garklein recorder	1
+290	18	sopranino recorder	1
+291	18	treble recorder / alto recorder	1
+292	18	tenor recorder	1
+293	18	bass recorder	1
+294	18	great bass recorder / c-bass recorder	1
+295	18	contrabass recorder	1
+296	18	subcontrabass recorder	1
+300	43	chromatic harmonica	1
+301	177	baritone guitar	2
+302	675	phách	3
+304	170	t'rưng	3
+305	268	trống bông	3
+306	13	đing buốt	1
+307	40	ki pah	1
+308	312	tràm plè	1
+309	225	cò ke	2
+310	13	saó ôi flute	1
+311	40	kèn lá	1
+312	40	hmông flute	1
+313	312	trắng lu	1
+315	312	pang gu ly hu hmông	1
+316	312	sáo meò	1
+317	40	ding tac ta	1
+318	610	khèn Mèo	1
+319	610	đing năm	1
+321	500	handclaps	3
+322	177	Vietnamese guitar	2
+323	177	Hawaiian guitar	2
+325	83	gumbri	2
+326	263	daf	3
+327	677	ebow	4
+328	268	zarb	3
+329	263	riq	3
+330	675	udu	3
+331	505	ghatam	3
+332	170	ti bwa	3
+333	100	tanbou ka	3
+334	675	rattle	3
+335	334	chacha	3
+336	100	cajón	3
+339	14	pí thiu	1
+340	99	shakers	3
+342	268	darbuka	3
+344	100	frame drum	3
+345	13	transverse flute	1
+346	345	alto flute	1
+347	133	theatre organ	1
+348	3	crumhorn	1
+349	675	metallophone	3
+350	83	pipa	2
+358	428	Northumbrian pipes	1
+359	41	piano accordion	1
+360	41	button accordion	1
+361	360	diatonic accordion / melodeon	1
+362	178	keyboard bass	4
+363	170	amadinda	3
+364	170	balafon	3
+366	675	slit drum	3
+367	100	kettle drum	3
+369	904	rhythm sticks	3
+370	334	sistrum	3
+371	170	bamboo angklung	3
+372	371	metal angklung	3
+373	334	ankle rattlers	3
+375	334	rainstick	3
+376	344	ocean drum	3
+377	585	talking drum	3
+378	587	taiko	3
+379	100	surdo	3
+380	99	bin-sasara	3
+381	334	shekere	3
+382	100	dholak	3
+383	116	gankogui	3
+385	57	lap steel guitar	2
+387	57	table steel guitar	2
+388	57	pedal steel guitar	2
+390	124	continuum	4
+391	477	tambura	2
+395	83	theorbo	2
+397	3	duduk	1
+398	197	low whistle	1
+399	658	dohol	3
+400	117	bass pedals	4
+403	9	soprano clarinet	1
+404	9	basset clarinet	1
+405	9	basset horn	1
+407	3	zurna	1
+409	98	autoharp	2
+410	232	cümbüş	2
+411	344	davul	3
+414	345	concert flute	1
+415	345	flûte d'amour	1
+416	345	bass flute	1
+417	345	Indian bamboo flutes	1
+418	417	venu	1
+419	13	boatswain's pipe	1
+420	205	violone	2
+421	98	Baltic psalteries	7
+427	428	Scottish smallpipes	1
+428	4	bellow-blown bagpipes	1
+429	4	practice chanter	1
+430	658	bass drum	3
+432	433	bayan	1
+433	360	chromatic button accordion	1
+434	177	tenor guitar	2
+436	180	chalumeau	1
+437	14	quena	1
+438	177	12 string guitar	2
+439	52	cuatro	2
+441	560	EWI	4
+442	98	marxophone	2
+443	204	shruti box	1
+444	19	bass saxophone	1
+445	19	sopranino saxophone	1
+446	19	contrabass saxophone	1
+447	133	electronic organ	4
+448	447	farfisa	4
+449	500	finger snaps	3
+450	124	voice synthesizer	4
+453	677	talkbox	5
+454	271	hi-hat	3
+455	461	zill	3
+456	124	bass synthesizer	4
+457	585	Batá drum	3
+458	14	kaval	1
+459	205	sarangi	2
+460	345	dizi	1
+461	271	finger cymbals	3
+462	658	tom-tom	3
+464	930	musical box	3
+465	43	bass harmonica	1
+467	83	tar	2
+469	18	descant recorder / soprano recorder	1
+471	136	chamber organ	1
+474	263	kanjira	3
+475	587	mridangam	3
+476	83	Saraswati veena	2
+477	83	tanbur	2
+478	500	foot percussion	3
+479	675	bell tree	3
+480	587	thavil	3
+482	205	Cretan lyra	2
+483	40	bawu	1
+484	14	xiao	1
+486	205	haegeum	2
+487	116	agogô	3
+488	83	bandora	2
+489	340	caxixi	3
+490	133	barrel organ	1
+491	586	cuíca	3
+492	345	daegeum	1
+495	585	janggu	3
+496	3	dulcian	1
+497	338	wind chime	3
+498	270	kkwaenggwari	3
+499	3	piri	1
+500	99	body percussion	3
+501	83	rudra veena	2
+502	475	pakhavaj	3
+503	61	kamancheh	2
+505	35	jug	1
+507	83	archlute	2
+508	13	algozey	1
+509	131	virginal	2
+510	3	cornamuse	1
+511	232	tumbi	2
+512	675	handpan	3
+513	194	spilåpipa	1
+514	345	fife	1
+515	117	laser harp	4
+518	180	launeddas	1
+519	488	orpharion	2
+522	35	natural horn	1
+523	68	five-string banjo	2
+524	52	cavaquinho	2
+525	100	kudüm	3
+526	99	typewriter	3
+527	205	yaylı tanbur	2
+531	263	tef	3
+532	531	daire	3
+533	80	morsing	3
+534	334	kartal	3
+535	587	dhol	3
+536	100	chande	3
+539	53	acoustic fretless guitar	2
+540	14	ney	1
+544	205	talharpa	2
+546	545	daruan	2
+547	610	hulusi	1
+548	407	suona	1
+549	213	jing'erhu	2
+550	270	xiaoluo	3
+551	270	daluo	3
+552	270	jing	3
+553	378	nagadou-daiko	3
+554	378	shime-daiko	3
+555	46	taishogoto	2
+557	585	kotsuzumi	3
+558	585	ōtsuzumi	3
+559	478	tap dancing	3
+560	124	wind synthesizer	4
+561	560	Lyricon	4
+562	201	Vienna horn	1
+565	270	atarigane	3
+566	53	nylon guitar	2
+567	53	gut guitar	2
+570	469	fourth flute	1
+571	805	fujara	1
+573	345	limbe	1
+574	9	E-flat clarinet	1
+575	232	tonkori	2
+577	587	buk	3
+578	70	chikuzen biwa	2
+579	70	heike biwa	2
+580	70	satsuma biwa	2
+581	344	bangu	3
+582	408	gralla	1
+583	274	samba whistle	1
+584	268	thon	3
+585	100	hourglass drum	3
+586	100	friction drum	3
+587	100	barrel drum	3
+589	586	żafżafa	3
+590	4	żaqq	1
+592	591	żummara	5
+594	13	nose whistle	1
+595	3	rauschpfeife	1
+597	349	saron	3
+599	271	naobo	3
+602	117	disk drive	4
+603	602	hard disk drive	4
+604	602	floppy disk drive	4
+606	137	pedal piano	2
+607	263	tar	3
+608	83	đàn tứ	2
+610	40	mouth organ	1
+611	610	khene	1
+612	83	vichitra veena	2
+613	344	qilaut	3
+614	170	ranat ek	3
+615	205	tenor violin	2
+616	3	hichiriki	1
+618	461	ching	3
+619	271	chap	3
+620	170	ranat thum	3
+621	270	khong wong	3
+625	205	saw u	2
+626	522	post horn	1
+628	344	rammana	3
+632	930	lamellophone	3
+633	464	marímbula	3
+634	180	arghul	1
+637	338	mark tree	3
+638	338	chime bar	3
+639	100	gong bass drum	3
+640	270	chau gong	3
+641	3	taepyeongso	1
+642	98	ajaeng	2
+644	334	ganzá	3
+645	232	guitalele	2
+646	100	sabar	3
+647	83	Portuguese guitar	2
+649	3	duck call	1
+650	13	vessel flute	1
+651	650	xun	1
+652	109	krakebs	3
+654	653	archtop guitar	2
+655	232	buzuq	2
+656	68	four-string banjo	2
+657	656	tenor banjo	2
+658	100	cylindrical drum	3
+659	658	dunun	3
+660	653	viola caipira	2
+661	205	violino piccolo	2
+662	32	tenor trombone	1
+663	3	tromboon	1
+664	58	Paraguayan harp	2
+665	170	ranat kaeo	3
+666	194	khlui	1
+667	902	pi	1
+669	587	taphon	3
+670	268	klong yao	3
+671	587	klong khaek	3
+672	587	klong song na	3
+673	587	klong that	3
+674	99	idiophone	3
+675	674	struck idiophone	3
+678	34	helicon	1
+679	361	Schwyzerörgeli	1
+680	83	šargija	2
+681	177	harp guitar	2
+682	138	electric grand piano	2
+683	3	guan	1
+684	35	nabal	1
+685	587	yonggo	3
+686	156	nagak	1
+687	52	guitarrón mexicano	2
+688	52	guitarrón chileno	2
+689	83	dramyin	2
+691	4	Swedish bagpipes	1
+692	180	zhaleika	1
+693	205	violoncello piccolo	2
+694	180	tubax	1
+695	205	jouhikko	2
+696	205	ģīga	2
+697	205	lirone	2
+698	205	tromba marina	2
+699	205	shichepshin	2
+700	334	pkhachich	3
+701	674	friction idiophone	3
+702	675	lithophone	3
+703	170	xylorimba	3
+704	83	laouto	2
+705	83	lavta	2
+706	83	doshpuluur	2
+707	205	igil	2
+708	83	topshuur	2
+709	14	hotchiku	1
+710	80	mukkuri	3
+711	16	wot	1
+712	205	saw sam sai	2
+713	83	chanzy	2
+714	232	nyatiti	2
+715	658	zabumba	3
+716	98	swarmandal	2
+717	334	afoxé	3
+718	658	alfaia	3
+719	100	atabaque	3
+720	675	anvil	3
+721	701	reco-reco	3
+722	658	repinique	3
+723	344	tamborim	3
+724	658	tinya	3
+725	14	suling	1
+726	366	pātē	3
+728	52	bajo sexto	2
+729	232	ngɔni	2
+730	61	suka	2
+731	344	rototom	3
+732	3	bass oboe	1
+733	3	piccolo oboe	1
+734	232	krar	2
+735	4	musette de cour	1
+736	701	Cristal Baschet	3
+737	137	luthéal	2
+738	3	nadaswaram	1
+739	411	kös	3
+741	202	bazooka	1
+742	201	flumpet	1
+744	83	chitra veena	2
+745	232	bolon	2
+746	232	tololoche	2
+747	100	akete	3
+748	702	gramorimba	3
+749	3	sarrusophone	1
+750	98	dolceola	2
+752	137	minipiano	2
+753	102	quinto	3
+754	205	ravanahatha	2
+755	675	quijada	3
+756	100	garifuna drum	3
+757	756	segunda	3
+758	756	primero	3
+759	61	oktawka	2
+760	514	sopilka	1
+761	232	citole	2
+762	35	buisine	1
+763	124	guitar synthesizer	4
+764	232	lautenwerck	2
+765	701	glass harp	3
+766	83	mandolute	2
+767	124	marimba lumina	4
+768	232	ütőgardon	2
+771	232	bandurria	2
+772	675	txalaparta	3
+773	252	dulce melos	2
+777	675	calabash	3
+778	40	accordina	1
+779	232	craviola	2
+780	40	claviola	1
+782	13	kōauau	1
+783	650	nguru	1
+784	13	rehu	1
+785	13	pūmotomoto	1
+786	13	pūtōrino	1
+787	13	pōrutu	1
+788	35	pūkaea	1
+789	35	pūtātara	1
+790	863	pahū pounamu	3
+791	153	pūrerehua	5
+793	259	Pianet	4
+795	632	Guitaret	4
+800	35	bronze lur	1
+801	35	birch lur	1
+804	179	saduk	1
+806	104	tabor	3
+808	813	trautonium	4
+809	80	aman khuur	3
+810	809	temür khuur	3
+811	809	khulsan khuur	3
+812	344	ashiko	3
+814	813	ondioline	4
+815	813	clavioline	4
+816	232	sursingar	2
+817	729	kamalen ngɔni	2
+818	513	härjedalspipa	1
+819	232	barbat	2
+820	345	contrabass flute	1
+823	205	arpeggione	2
+824	232	bisernica	2
+825	232	brač	2
+826	232	bugarija	2
+827	232	čelo	2
+828	232	berda	2
+829	232	tanpura	2
+830	232	samica	2
+831	232	banjolin	2
+832	232	banjo-ukulele	2
+833	232	bouzar / gouzouki	2
+834	205	viololyra	2
+835	232	guitorgan	4
+836	232	mandoguitar	2
+837	42	English concertina	1
+838	42	German concertina	1
+839	42	Anglo concertina	1
+842	137	orphica	2
+843	194	flageolet	1
+847	361	trikiti	1
+849	345	kagurabue	1
+850	205	djoza	2
+851	367	duggi	3
+853	117	video game console	4
+856	200	kōauau ponga ihu	1
+857	340	hue puruwai	3
+859	80	rōria	3
+860	73	te kū	2
+863	675	tumutumu	3
+864	366	pahū	3
+865	109	tōkere	3
+868	2	gemshorn	1
+873	115	tubulum	3
+874	100	boobam	3
+875	100	octoban	3
+876	180	mijwiz	1
+877	35	vuvuzela	1
+878	345	Irish flute	1
+883	232	rubab	2
+884	179	birbynė	1
+885	77	yoochin	2
+886	98	lap harp	2
+888	35	olifant	1
+890	124	Otamatone	4
+891	701	yu	3
+895	83	mandora / gallichon	2
+896	3	renaissance rackett	1
+897	3	baroque rackett	1
+900	205	bass violin	2
+901	232	Gravikord	2
+902	179	quadruple reed	1
+903	104	caixa	3
+904	675	clapper	3
+905	369	hyoshigi	3
+907	213	zhuihu	2
+913	35	natural trumpet	1
+914	521	trumpet family	7
+918	204	regal	1
+925	916	lyra viol	2
+929	201	cimbasso	1
+930	674	plucked idiophone	3
+933	100	drum	3
+251	\N	đàn bầu	2
+866	\N	poi	3
+887	\N	tungso	1
+802	\N	gittern	2
+601	\N	octave mandolin	2
+452	\N	guzheng	2
+630	\N	setar	2
+276	\N	sênh tiền	3
+807	\N	pipe and tabor	6
+872	\N	kannel	2
+384	\N	fortepiano	2
+921	\N	treble viol	2
+119	\N	Dubreq Stylophone	4
+852	\N	Blaster Beam	2
+82	\N	koto	2
+910	\N	Serbo-Croatian tamburica orchestra	6
+238	\N	mandola	2
+899	\N	viol family	7
+149	\N	sackbut	1
+541	\N	kemençe of the Black Sea	2
+805	\N	three-hole pipe	1
+774	\N	keytar	4
+135	\N	harmonium	1
+537	\N	maddale	3
+882	\N	repeater	3
+178	\N	keyboard	4
+255	\N	santur	2
+357	\N	bones	3
+17	\N	piccolo	1
+66	\N	Appalachian dulcimer	2
+563	\N	Xaphoon	1
+861	\N	pūpakapaka	1
+504	\N	bowed piano	2
+284	\N	song loan	3
+109	\N	castanets	3
+239	\N	rebab	2
+288	\N	kanun	2
+282	\N	vocoder	4
+324	\N	tiêu	1
+848	\N	elektronium	4
+424	\N	kantele	2
+927	\N	danso	1
+408	\N	shawm	1
+466	\N	charango	2
+243	\N	đàn tỳ bà	2
+617	\N	ryuteki	1
+250	\N	đàn tranh	2
+629	\N	dutar	2
+413	\N	soprano flute	1
+898	\N	violin octet	6
+796	\N	gizmo	5
+72	\N	mandolin	2
+343	\N	bendir	3
+624	\N	saw duang	2
+234	\N	oud	2
+841	\N	dulcitone	3
+337	\N	đàn tam	2
+727	\N	bass trumpet	1
+781	\N	taonga pūoro	6
+297	\N	nai	1
+314	\N	trắng jâu	1
+627	\N	chakhe	2
+893	\N	kokle	2
+636	\N	tack piano	2
+473	\N	oboe d'amore	1
+320	\N	brushes	3
+426	\N	baglama	2
+47	\N	bass	5
+412	\N	treble flute	1
+813	\N	analog synthesizer	4
+46	\N	strings	2
+83	\N	lute	2
+153	\N	bullroarer	5
+631	\N	ukeke	2
+182	\N	valve trombone	1
+355	\N	Irish harp / clàrsach	2
+880	\N	baandu	3
+468	\N	Wurlitzer electric piano	3
+915	\N	string trio	6
+189	\N	sarod	2
+569	\N	siku	1
+596	\N	duxianqin	2
+233	\N	đàn tứ dây	2
+923	\N	alto viol	2
+485	\N	domra	2
+879	\N	oval spinet	2
+91	\N	vielle	2
+770	\N	dulzaina	1
+303	\N	kèn bầu	1
+543	\N	komuz	2
+365	\N	gamelan	6
+869	\N	tenora	1
+287	\N	khim	2
+152	\N	Wagner tuba	1
+401	\N	piccolo trumpet	1
+5	\N	bassoon	1
+181	\N	turntable	5
+593	\N	shudraga	2
+822	\N	chirimía and drum	6
+609	\N	liuqin	2
+298	\N	syrinx	1
+846	\N	Tonette	1
+690	\N	pocket trumpet	1
+931	\N	ghaychak	2
+396	\N	banjitar	2
+493	\N	nohkan	1
+600	\N	mandocello	2
+530	\N	dilruba	2
+775	\N	tubon	4
+889	\N	hydraulophone	5
+435	\N	fretless bass	2
+653	\N	steel-string guitar	2
+576	\N	Reactable	4
+643	\N	ektara	2
+635	\N	diddley bow	2
+440	\N	taragot	1
+892	\N	junjung	3
+803	\N	laúd	2
+158	\N	cowbell	3
+113	\N	maracas	3
+172	\N	temple blocks	3
+184	\N	dobro	2
+170	\N	xylophone	3
+494	\N	shehnai	1
+55	\N	electric guitar	2
+68	\N	banjo	2
+374	\N	wavedrum	4
+38	\N	ophicleide	1
+928	\N	sasando	2
+353	\N	folk harp	2
+881	\N	fundeh	3
+855	\N	txistu	1
+470	\N	shinobue	1
+542	\N	classical kemençe	2
+175	\N	Clavinet	2
+622	\N	khong wong lek	3
+99	\N	percussion	3
+821	\N	chirimía	1
+204	\N	reed organ	1
+356	\N	German harp	2
+299	\N	vacuum cleaner	5
+95	\N	violotta	2
+871	\N	tible	1
+62	\N	violin	2
+623	\N	khong wong yai	3
+117	\N	electronic instruments	4
+545	\N	ruan	2
+286	\N	santoor	2
+605	\N	baryton	2
+799	\N	spinettone	2
+389	\N	electric lap steel guitar	2
+351	\N	concert harp	2
+386	\N	resonator guitar	2
+249	\N	langeleik	2
+844	\N	English flageolet	1
+506	\N	guqin	2
+922	\N	tenor viol	2
+520	\N	tape	5
+67	\N	balalaika	2
+352	\N	electric harp	2
+224	\N	morin khuur	2
+50	\N	acoustic bass guitar	2
+845	\N	flabiol	1
+51	\N	electric bass guitar	2
+406	\N	Irish bouzouki	2
+76	\N	geomungo	2
+69	\N	berimbau	2
+529	\N	esraj	2
+591	\N	mirliton	1
+81	\N	kora	2
+521	\N	baroque trumpet	1
+870	\N	tarota	1
+481	\N	prepared piano	2
+134	\N	Hammond organ	4
+192	\N	sho	1
+338	\N	chimes	3
+271	\N	cymbal	3
+794	\N	Cembalet	1
+235	\N	Turkish baglama	2
+394	\N	bandura	2
+248	\N	kithara	2
+862	\N	porotiti	1
+932	\N	ghijak	2
+463	\N	tzoura	2
+246	\N	electric sitar	2
+354	\N	wire-strung harp	2
+516	\N	17-string koto	2
+141	\N	other instruments	5
+840	\N	vibrandoneon	1
+769	\N	chainsaw	5
+564	\N	yatga	2
+402	\N	electronic drum set	3
+648	\N	electric viola	2
+247	\N	kinnor	2
+517	\N	valiha	2
+858	\N	hue puruhau	1
+54	\N	classical guitar	2
+854	\N	jeli ngɔni	2
+236	\N	Greek baglama	2
+208	\N	electric cello	2
+368	\N	frottoir	3
+451	\N	Stroh violin	2
+257	\N	đàn tam thập lục	2
+53	\N	acoustic guitar	2
+92	\N	Mexican vihuela	2
+528	\N	bulbul tarang	2
+568	\N	rondador	1
+677	\N	effects	5
+58	\N	harp	2
+1	\N	wind instruments	1
+237	\N	cittern	2
+572	\N	oboe da caccia	1
+49	\N	electric upright bass	2
+912	\N	claviorganum	\N
+70	\N	biwa	2
+45	\N	sheng	1
+743	\N	bicycle bell	3
+225	\N	đàn nhị	2
+906	\N	chuurqin	2
+199	\N	sáo trúc	1
+60	\N	cello	2
+894	\N	harpejji	2
+422	\N	kanklės	2
+668	\N	pi nai	1
+909	\N	traditional basque ensemble	6
+75	\N	gayageum	2
+245	\N	sanshin	2
+425	\N	tangent piano	2
+924	\N	pardessus de viole	2
+920	\N	bhapang	2
+423	\N	gusli	2
+431	\N	bombarde	1
+61	\N	fiddle	2
+797	\N	spinet	2
+87	\N	shamisen	2
+598	\N	dombra	2
+776	\N	donso ngɔni	2
+472	\N	saz	2
+147	\N	suikinkutsu	5
+911	\N	piano trio	6
+916	\N	bass viol	2
+792	\N	poi āwhiowhio	1
+867	\N	pākuru	3
+150	\N	euphonium	1
+798	\N	piano spinet	2
+63	\N	viola	2
+917	\N	baroque guitar	2
+908	\N	string quartet	6
+88	\N	sitar	2
+118	\N	Denis d'or	4
+231	\N	gadulka	2
+538	\N	electric fretless guitar	2
+212	\N	electric violin	2
+740	\N	çevgen	3
+144	\N	lasso d'amore	5
+7	\N	English horn	1
